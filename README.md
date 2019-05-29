@@ -1,6 +1,6 @@
 # CardAlignmentBugOnXbox
 
-My StackOverflow issue is (Move focus on GridView item one by one)[https://stackoverflow.com/questions/56321601/move-focus-on-gridview-item-one-by-one/56352249#56352249]
+StackOverflow issue on [Move focus on GridView item one by one](https://stackoverflow.com/questions/56321601/move-focus-on-gridview-item-one-by-one/56352249#56352249)
 
 Through a series disscussion with MS tech, we confirmed that:
 

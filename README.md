@@ -7,3 +7,5 @@ Through a series disscussion with MS tech, we confirmed that:
 Xbox Settings> Display&Sound> Video output, under "Advanced" select "Video fidelity & overscan" You will see an option that says "Apps can add a border", turn if off.
 
 This can solve the card alignment problem, but currently there is no api for developers to turn it off using code.
+
+And I created a UserVoice [Card Alignment Bug On Xbox](https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/37759939-card-alignment-bug-on-xbox)

@@ -1,0 +1,39 @@
+files:
+  - url: ""
+    time: 1659236782995.yml
+    name: config.yaml
+    selected: []
+  - time: 1659237815485.yml
+    name: 极客云☁
+    url: https://sub.sdncimcin.xyz/link/csCNUDuFoNHKRBPT?clash=1
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Proxy
+        now: JK1-V1-IPLC新新机房01|v2ray|4倍流量
+      - name: Domestic
+        now: DIRECT
+      - name: AsianTV
+        now: Domestic
+      - name: GlobalTV
+        now: Proxy
+      - name: Others
+        now: Proxy
+    interval: 0
+    subInfo:
+      upload: 69903164090
+      download: 611749952495
+      total: 7896899256320
+      expire: 1672316318
+    cron: ""
+  - time: 1661582802466.yml
+    name: ClashR_1661582802.yaml
+    url: https://e.luxury/link/Rj7JHjMzUapK6Wyd?clash=2
+    selected: []
+    interval: 0
+    subInfo:
+      upload: 0
+      download: 0
+      total: 10737418240
+      expire: 1647488543
+index: 1
